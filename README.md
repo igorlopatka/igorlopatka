@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Igor Łopatka</h1>
-<h3 align="center">Junior iOS Developer from Poland</h3>
+<h3 align="center">Junior iOS Developer based in Warsaw, Poland</h3>
 
-- 🌱 I’m currently learning **Swift, SwiftUI**
+- 🌱 I’m currently learning **SwiftUI**
 
 - 👨‍💻 All of my projects are available at [github.com/igorlopatka/](github.com/igorlopatka/)
 
