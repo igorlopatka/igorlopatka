@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Igor Łopatka</h1>
-<h3 align="center">Junior iOS Developer based in Warsaw, Poland</h3>
+<h3 align="center">Junior iOS Developer based in Warsaw, Poland 🇵🇱</h3>
 
 - 🌱 I’m currently learning **SwiftUI**
 
