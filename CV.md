@@ -1,5 +1,6 @@
 # Igor Łopatka  
-**IT Project Manager & Digital Transformation Specialist**  
+**IT Project Manager & Digital Transformation Specialist**
+
 📍 Warsaw • 📧 igorlopatka@icloud.com • 📞 +48 500 615 753 • [GitHub](https://github.com/igorlopatka)
 
 ---
@@ -26,8 +27,6 @@ Passionate about leveraging technology and data to improve healthcare outcomes a
 - Supporting system stabilization, analyzing feedback, and driving process optimization.  
 - Using data analytics to deliver insights supporting strategic decisions and risk mitigation.
 
----
-
 ### **IT Project Coordinator**  
 **Państwowy Instytut Medyczny MSWiA**  
 📅 03.2022 – 07.2024  
@@ -36,8 +35,6 @@ Passionate about leveraging technology and data to improve healthcare outcomes a
 - Modeled business processes and defined KPIs for success measurement.  
 - Oversaw integration with external IT systems and ensured regulatory compliance.  
 - Designed stakeholder training programs, boosting adoption and supporting change management.
-
----
 
 ### **Data Analyst**  
 **EPINOTE.AI**  
